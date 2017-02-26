@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Navigation Drawer Sample</string>
+    <string name="app_name">Boomerang Beta</string>
     <string name="action_settings">Settings</string>
     <string name="home_item">Inicio</string>
     <string name="products_item">Productos</string>
@@ -8,6 +8,87 @@
     <string name="invoices_item">Facturas</string>
     <string name="log_out_item">Cerrar Sesión</string>
     <string name="settings_item">Configuración</string>
-    <string name="email_navdrawer">kike@devf.mx</string>
-    <string name="name_navdrawer">Enrique Diaz</string>
+    <string name="email_navdrawer">Multiopticas Gran Via - Vigo</string>
+    <string name="name_navdrawer">Terminal : 201701001</string>
+    <string name="Operacion_Item">Nueva Operación</string>
+    <string name="Search_Item">Buscar Tarjeta</string>
+    <string name="Cloud_Item">Consulta Saldo</string>
+    <string name="Settings_Item">Configuración</string>
+    <string name="Dialog_1">Operación enviada</string>
+    <string name="title_activity_envia_operacion">Enviar Operaciones</string>
+    <string name="title_activity_busca_tarjeta">Buscar Tarjeta</string>
+    <string name="title_activity_consulta_saldo">ConsultaSaldo</string>
+    <string name="title_activity_config">Configuración</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Terminal</string>
+
+    <string name="pref_title_social_recommendations">Terminal Desactivado</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Código Terminal</string>
+    <string name="pref_default_display_name">2017</string>
+
+    <string name="pref_title_add_friends_to_messages">Tipo de Terminal</string>
+    <string-array name="pref_example_list_titles">
+        <item>Tablet</item>
+        <item>POS</item>
+        <item>PC</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Comunicaciones</string>
+
+    <string name="pref_title_sync_frequency">Web Service</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notificaciones</string>
+
+    <string name="pref_title_new_message_notifications">Activar notificaciones</string>
+
+    <string name="pref_title_ringtone">Tono</string>
+    <string name="pref_ringtone_silent">Silencio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
 </resources>

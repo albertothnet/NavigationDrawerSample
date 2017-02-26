@@ -1,4 +1,4 @@
-package mx.platzi.navdrawersample;
+package mx.platzi.boomerang;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
